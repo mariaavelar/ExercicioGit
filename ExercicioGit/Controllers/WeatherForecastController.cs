@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace ExercicioGit.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("[controllerr]")]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
